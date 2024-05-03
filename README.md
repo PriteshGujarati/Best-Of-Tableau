@@ -4,3 +4,8 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 
 1.https://public.tableau.com/app/profile/megan.menth/viz/CallCenterExecutiveView/CallCenterExecView
  ![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/d462f42a-b904-4694-82d0-56d167fd515f)
+
+
+2.https://public.tableau.com/app/profile/dmitry.shirikov/viz/Superstoresalesdata2/Dash
+![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/85424ace-460f-48c4-9dba-6ea58e6f9f9f)
+
