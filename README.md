@@ -15,4 +15,5 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 4. https://public.tableau.com/app/profile/zakgeis/viz/CustomerComplaintsDashboard_16311129370620/Overview
 ![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/e630070f-d70e-4234-aeed-8c931aad32dc)
 
-
+5 . https://public.tableau.com/app/profile/etido.ekwere/viz/PROJECTMANAGEMENTDASHBAORD/PROJECTMANAGEMENTSUMMARY
+![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/6fd61728-919e-49df-a557-4a9f1040f880)
