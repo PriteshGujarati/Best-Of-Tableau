@@ -17,3 +17,6 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 
 5 . https://public.tableau.com/app/profile/etido.ekwere/viz/PROJECTMANAGEMENTDASHBAORD/PROJECTMANAGEMENTSUMMARY
 ![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/6fd61728-919e-49df-a557-4a9f1040f880)
+
+6. https://public.tableau.com/app/profile/akilapa.idris5302/viz/ongoingDashboard/MainPage
+![image](https://github.com/user-attachments/assets/0765811b-1783-4a63-a328-9d09822b7933)
