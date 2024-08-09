@@ -20,3 +20,6 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 
 6. https://public.tableau.com/app/profile/akilapa.idris5302/viz/ongoingDashboard/MainPage
 ![image](https://github.com/user-attachments/assets/0765811b-1783-4a63-a328-9d09822b7933)
+
+7. https://public.tableau.com/views/CallCenterRWFD_17206237561470/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![image](https://github.com/user-attachments/assets/9da142f5-9d9e-460f-b1bf-b2fb69276df4)
