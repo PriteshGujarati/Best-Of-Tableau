@@ -3,7 +3,7 @@
 This repository contains Tableau dashboards that will be helpful if someone is trying to implement a specific feature or wants to get ideas for their requirements. It will provide links and screenshots of the dashboards so anyone can check them out and get inspiration
 
 1.https://public.tableau.com/app/profile/megan.menth/viz/CallCenterExecutiveView/CallCenterExecView
- ![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/d462f42a-b904-4694-82d0-56d167fd515f)
+![image](https://github.com/PriteshGujarati/Best-Of-Tableau/assets/45009011/d462f42a-b904-4694-82d0-56d167fd515f)
 
 
 2.https://public.tableau.com/app/profile/dmitry.shirikov/viz/Superstoresalesdata2/Dash
@@ -26,3 +26,7 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 
 8. https://public.tableau.com/app/profile/faith5698/viz/SuperstoreProfitAnalysis_17217401707110/Overview
 ![Overview](https://github.com/user-attachments/assets/26686d4d-dcf6-4f0e-9cd0-4d84c507427b)
+
+9. https://public.tableau.com/app/profile/pritesh.manankumar.gujarati1158/viz/HumanResourcesAnalyticsDashboardHRDashboard/HRSummary
+![HR _ Summary (1)](https://github.com/user-attachments/assets/8633a95a-690e-4885-979f-19be871ec78d)
+
