@@ -23,3 +23,6 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 
 7. https://public.tableau.com/views/CallCenterRWFD_17206237561470/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ![image](https://github.com/user-attachments/assets/9da142f5-9d9e-460f-b1bf-b2fb69276df4)
+
+8. https://public.tableau.com/app/profile/faith5698/viz/SuperstoreProfitAnalysis_17217401707110/Overview
+![Overview](https://github.com/user-attachments/assets/26686d4d-dcf6-4f0e-9cd0-4d84c507427b)
