@@ -30,3 +30,5 @@ This repository contains Tableau dashboards that will be helpful if someone is t
 9. https://public.tableau.com/app/profile/pritesh.manankumar.gujarati1158/viz/HumanResourcesAnalyticsDashboardHRDashboard/HRSummary
 ![HR _ Summary (1)](https://github.com/user-attachments/assets/8633a95a-690e-4885-979f-19be871ec78d)
 
+10. https://public.tableau.com/app/profile/keren.aharon/viz/DataVisualisationCataloguePart2/DataVisualisationCataloguePart2?utm_campaign=amer_tabaw&utm_content=Tableau_Viz+of+the+Day&utm_medium=organic_social&utm_source=linkedin
+![Data Visualisation Catalogue Part 2](https://github.com/user-attachments/assets/281f2751-86f6-47aa-bf5c-5850d3e7f5a8)
